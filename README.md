@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @interstellar-programmer
 - 👀 I’m interested in: programming, space, music, sport & healthy lifestyle
-- 🌱 I’m currently learning C++ & Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something what will change our world for the better
 - 📫 How to reach me: interstellar.programmer@gmail.com
 
